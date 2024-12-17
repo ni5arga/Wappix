@@ -83,36 +83,13 @@ src/
 - Media icons
 - Loading states
 
-## Getting Started
-
-1. Clone the repository:
-\`\`\`bash
-git clone https://github.com/ni5arga/wappix.git
-cd whatsapp-chat-reader
-\`\`\`
-
-2. Install dependencies:
-\`\`\`bash
-npm install
-\`\`\`
-
-3. Start development server:
-\`\`\`bash
-npm run dev
-\`\`\`
-
-4. Build for production:
-\`\`\`bash
-npm run build
-\`\`\`
-
 ## Usage
 
 1. Export your WhatsApp chat:
    - Open WhatsApp
    - Select chat
    - Menu (⋮) > More > Export chat
-   - Choose "Without media" (TODO: add media processing in Wappix)
+   - Choose "Without media" (TODO: add media processing)
 
 2. Using the reader:
    - Open the web app
