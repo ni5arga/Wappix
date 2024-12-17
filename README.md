@@ -2,7 +2,11 @@
 
 A modern web application for reading and analyzing exported WhatsApp chat files, featuring a clean and intuitive interface that mirrors the WhatsApp experience.
 
-![Wappix]()
+## Screenshots
+
+| Chat View                        | Search Feature                   | Chat Stats                        |
+|----------------------------------|----------------------------------|----------------------------------|
+| ![Chat View](https://i.imgur.com/CjDpR6c.png) | ![Search Feature](https://i.imgur.com/938gdDQ.png) | ![Chat Stats](https://i.imgur.com/SxWM18U.png) |
 
 ## Features
 
