@@ -2,6 +2,9 @@
 
 A modern web application for reading and analyzing exported WhatsApp chat files, featuring a clean and intuitive interface that mirrors the WhatsApp experience. Try it out at https://wappix.vercel.app/ :)
 
+
+This web app can handle both user to user DM exports & group chat exports.
+
 ## Screenshots
 
 ![Screenshot 1](https://i.imgur.com/CjDpR6c.png)
@@ -10,34 +13,6 @@ A modern web application for reading and analyzing exported WhatsApp chat files,
 
 ![Screenshot 2](https://i.imgur.com/SxWM18U.png)
 
-
-## Features
-
-### Chat Interface
-- 💬 Clean, WhatsApp-inspired message bubbles
-- 👥 Support for both individual and group chats
-- 📱 Fully responsive design
-- ⚡ Real-time message rendering
-
-### Message Handling
-- 📝 Multi-line message support
-- 🖼️ Media attachment detection
-- ✏️ Edited message indicators
-- ❌ Deleted message handling
-- 🔍 Full-text search functionality
-
-### Navigation
-- ⬆️ Scroll to top button
-- 🔎 Message search with highlighting
-- ⌨️ Keyboard shortcuts for search
-
-### Chat Analysis
-- 📊 Participant statistics
-- 📅 Chat timeline view
-- 📈 Message count tracking
-- 👥 Participant detection
-
-## Technical Details
 
 ### Stuff I Used To Build This
 - **React 18** 
@@ -66,29 +41,6 @@ src/
 │   └── messageProcessor.ts # Message processing
 └── App.tsx             # Root component
 ```
-
-### Key Features Implementation
-
-#### Message Processing
-- Automatic sender/receiver detection
-- Group chat recognition
-- System message filtering
-- Media attachment parsing
-- Message editing detection
-
-#### Search Functionality
-- Real-time filtering
-- Case-insensitive search
-- Sender & content search
-- Result highlighting
-- Smooth scroll to results
-
-#### UI/UX Features
-- Dynamic message alignment
-- Responsive bubbles
-- Timestamp formatting
-- Media icons
-- Loading states
 
 ## Usage
 
