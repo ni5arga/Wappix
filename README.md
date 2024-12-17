@@ -4,9 +4,11 @@ A modern web application for reading and analyzing exported WhatsApp chat files,
 
 ## Screenshots
 
-| Chat View                        | Search Feature                   | Chat Stats                        |
-|----------------------------------|----------------------------------|----------------------------------|
-| ![Chat View](https://i.imgur.com/CjDpR6c.png) | ![Search Feature](https://i.imgur.com/938gdDQ.png) | ![Chat Stats](https://i.imgur.com/SxWM18U.png) |
+![Screenshot 1](https://i.imgur.com/CjDpR6c.png)
+
+![Screenshot 2](https://i.imgur.com/938gdDQ.png)
+
+![Screenshot 3](https://i.imgur.com/SxWM18U.png)
 
 ## Features
 
