@@ -1,6 +1,6 @@
 # Wappix
 
-A modern web application for reading and analyzing exported WhatsApp chat files, featuring a clean and intuitive interface that mirrors the WhatsApp experience.
+A modern web application for reading and analyzing exported WhatsApp chat files, featuring a clean and intuitive interface that mirrors the WhatsApp experience. Try it out at https://wappix.vercel.app/ :)
 
 ## Screenshots
 
